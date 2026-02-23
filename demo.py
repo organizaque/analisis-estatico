@@ -5,5 +5,3 @@ def process_data(values):
       total += v
       unused_var = 1
   return total
-
-hola = mundo + 90
